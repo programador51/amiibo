@@ -1,4 +1,4 @@
-const URL_BASE = `http://127.0.0.1:5500`;
+const URL_BASE = `https://vocal-malasada-2e72d0.netlify.app/`;
 
 /**
  * Get the date as "writen"
